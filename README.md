@@ -1,2 +1,15 @@
-# fototechnik-lightbox
-Eine Lightbox mit Exif Daten für Wordpress
+# FotoTechnik-Lightbox
+
+### Beschreibung
+
+
+### Description
+
+
+### Funktionen und Features
+
+- 
+
+## Verwendete Libs:
+
+- 
